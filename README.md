@@ -1,5 +1,3 @@
-# Sales-Dashboard-Analysis---Pharmaceutical-Branches
-"Interactive sales dashboard for pharmaceutical branches, clients, and products using Power BI."
 # 🧾 Sales Dashboard Analysis - Pharmaceutical Branches
 
 This project presents a sales performance dashboard analyzing pharmaceutical product sales across branches, clients, and item categories.
